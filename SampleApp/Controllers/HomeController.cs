@@ -8,7 +8,7 @@ using System.Diagnostics;
 namespace SampleApp.Controllers
 {
 
-    //[Authorize(Roles = "Admin")]  //This is for the whole 
+    //[Authorize(Roles = "Admin")]  //This is for the whole... 
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
